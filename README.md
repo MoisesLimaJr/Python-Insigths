@@ -1,6 +1,6 @@
 <div align="center">
 
-### Análise de Cancelamento de Clientes com Python 🔍
+### 📊 Análise de Cancelamento de Clientes com Python 
 </div>
 
 
