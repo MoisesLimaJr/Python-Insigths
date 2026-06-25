@@ -42,7 +42,7 @@ Padrão #3: Gestão de Cobrança
 Atraso >20 dias em pagamento → Taxa de Cancelamento: 100%
 Atraso <20 dias → Taxa de Cancelamento: 10%
 
-Ação: Cobrador deve agir ANTES do dia 20 de atraso
+Ação: Cobrador deve agir ANTES do dia 20 de atraso.x'
 
 
 🛠️ Tecnologias Utilizadas
