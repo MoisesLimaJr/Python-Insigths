@@ -4,10 +4,13 @@
 
 Este projeto é uma análise exploratória de dados (EDA) realizada em uma base de 50 mil registros de clientes com o objetivo de:
 
-✅ Identificar os principais motivos de cancelamento
-✅ Descobrir padrões ocultos nos dados
-✅ Gerar insights acionáveis para redução de churn
-✅ Demonstrar habilidades em Python + Analytics
+✅ Identificar os principais motivos de cancelamento;
+
+✅ Descobrir padrões ocultos nos dados;
+
+✅ Gerar insights acionáveis para redução de churn;
+
+✅ Demonstrar habilidades em Python + Analytics.
 
 ---
 
