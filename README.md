@@ -38,30 +38,42 @@ Utilizei análise exploratória de dados com Python para descobrir que apenas 3 
 
 ### 🚀  Principais Descobertas
 
-**Padrão #1: Tipo de Contrato**
+### Padrão #1: Tipo de Contrato
 
 Contratos MENSAIS → Taxa de Cancelamento: 100%
 Contratos ANUAIS → Taxa de Cancelamento: 20%
 
 Ação: Redesenhar política de contratos para incentivar anuais 
 
+**📸 Gráfico 1: Taxa de Cancelamento por Tipo de Contrato**
+
+![](./screenshots/duracao_contrato.png)
+
 ---
 
-**Padrão #2: Qualidade de Atendimento**
+### Padrão #2: Qualidade de Atendimento
 
 4+ chamadas ao call center → Taxa de Cancelamento: 100%
 1-2 chamadas → Taxa de Cancelamento: 15%
 
-Ação: Treinar equipe para resolver na 1ª chamada (First Contact Resolution)
+Ação: Treinar equipe para resolver na 1ª chamada (First Contact Resolution
+
+**📸 Gráfico 2: Impacto de Chamadas ao Call Center**
+
+![](./screenshots/ligacao_callcenter.png)
 
 ---
 
-**Padrão #3: Gestão de Cobrança**
+## Padrão #3: Gestão de Cobrança
 
 Atraso >20 dias em pagamento → Taxa de Cancelamento: 100%
 Atraso <20 dias → Taxa de Cancelamento: 10%
 
 Ação: Cobrador deve agir ANTES do dia 20 de atraso
+
+**📸 Gráfico 3: Efeito do Atraso em Pagamento**
+
+![](./screenshots/dias_atraso.png)
 
 ---
 
@@ -84,4 +96,6 @@ Ação: Cobrador deve agir ANTES do dia 20 de atraso
 - **Jupyter Notebook** — Desenvolvimento interativo
 - **Google Drive** — Armazenamento de dados
 ---
+
+
 
