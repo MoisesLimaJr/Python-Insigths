@@ -8,6 +8,7 @@ Este projeto é uma análise exploratória de dados (EDA) realizada em uma base 
 ✅ Descobrir padrões ocultos nos dados
 ✅ Gerar insights acionáveis para redução de churn
 ✅ Demonstrar habilidades em Python + Analytics
+
 ---
 
 ## O Desafio
